@@ -12,7 +12,11 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
+<<<<<<< HEAD
  *class
+=======
+ *
+>>>>>>> aac2cfbb16b61d226168cf632f329ae31e8d97be
  * @author ald
  */
 public class CalculatriceJenkinsIT {
