@@ -5,7 +5,7 @@
 package calculatricejenkins;
 
 /**
- *
+ *class
  * @author ald
  * 
  */

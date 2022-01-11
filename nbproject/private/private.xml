@@ -3,10 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Epsi/21-22/Intégration%20continue%20serveur%20tests%20et%20métriques/octobre/TP/CalculatriceJenkins/build.xml</file>
-            <file>file:/C:/Epsi/21-22/Intégration%20continue%20serveur%20tests%20et%20métriques/octobre/TP/CalculatriceJenkins/test/calculatricejenkins/CalculatriceJenkinsIT.java</file>
-            <file>file:/C:/Epsi/21-22/Intégration%20continue%20serveur%20tests%20et%20métriques/octobre/TP/CalculatriceJenkins/src/calculatricejenkins/CalculatriceJenkins.java</file>
-            <file>file:/C:/Epsi/21-22/Intégration%20continue%20serveur%20tests%20et%20métriques/octobre/TP/CalculatriceJenkins/nbproject/build-impl.xml</file>
+            <file>file:/home/ubuntu/Perso/EPSI/calculatrice/nbproject/private/private.properties</file>
+            <file>file:/home/ubuntu/Perso/EPSI/calculatrice/test/calculatricejenkins/CalculatriceJenkinsIT.java</file>
         </group>
     </open-files>
 </project-private>
